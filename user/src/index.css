@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+:root {
+  --navbar-h: 64px;
+  --font-body: 'DM Sans', sans-serif;
+  --font-display: 'Sora', sans-serif;
+}
