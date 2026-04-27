@@ -44,7 +44,7 @@ fetchUser();
 
         <p className="text-xs text-gray-400 uppercase">Utama</p>
 
-        <NavLink to="/" className={({ isActive }) =>
+        <NavLink to="/dashboard" className={({ isActive }) =>
           `block p-2 rounded ${
             isActive ? "bg-blue-100 text-blue-500" : "hover:bg-blue-50 hover:text-blue-500"
           }`
